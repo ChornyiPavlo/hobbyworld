@@ -2,5 +2,5 @@ User-Agent: *
 Disallow:
 
 
-Sitemap: http://hobbygameworld.com.ua/sitemap.xml
-Host: hobbygameworld.com.ua
+Sitemap: http://hobbygameworld.com/sitemap.xml
+Host: hobbygameworld.com
